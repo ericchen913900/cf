@@ -1,0 +1,22 @@
+Project Phoenix - Weekly Sync - 2024-07-10
+
+Attendees: Alice (Project Manager), Bob (Lead Developer), Charlie (QA Engineer), David (UX Designer)
+
+Alice: Alright team, let's kick off the weekly sync for Project Phoenix. Bob, can you start with the development updates?
+Bob: Sure, Alice. This week, we completed the user authentication module. All core features are implemented and unit tests are passing. We also started work on the dashboard integration. I'd say we're about 30% done with that. We hit a small snag with a third-party library compatibility, but it's resolved now.
+Alice: Great progress, Bob! Any blockers?
+Bob: Not at the moment. We should be on track to complete the dashboard integration by the end of next week.
+Alice: Excellent. Charlie, how are things on the QA front?
+Charlie: Thanks, Alice. We've started drafting test cases for the authentication module based on the specs. We plan to begin exploratory testing tomorrow. I'll need Bob to deploy the latest build to the staging environment.
+Bob: Will do, Charlie. I'll get that done by end of day today.
+Alice: Perfect. David, any updates from UX?
+David: Yes, I've finalized the mockups for the new reporting feature. I've shared them on the drive. I'd like to schedule a review session with everyone, perhaps early next week?
+Alice: Sounds good, David. Please send out a calendar invite. I also want to remind everyone that the client demo is scheduled for July 25th. We need to ensure all critical features are stable by then.
+Charlie: Understood. We'll prioritize testing for the demo features.
+Bob: We'll focus on getting the dashboard and reporting basics solid for the demo.
+Alice: Okay, any other business?
+David: Just a quick one - I was thinking about user feedback post-launch. Should we plan for an in-app feedback mechanism?
+Alice: That's a good point, David. Let's add it to the backlog for now and discuss it in more detail after the initial launch. For now, the priority is the upcoming demo. Any objections?
+(Silence)
+Alice: Alright. So, to recap the main action items: Bob to deploy auth module to staging EOD today. Charlie to start auth testing tomorrow. David to send invite for UX review. Everyone to keep the July 25th demo in mind.
+Alice: Thanks, everyone. Let's have a productive week!
